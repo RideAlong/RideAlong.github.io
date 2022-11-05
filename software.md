@@ -17,7 +17,7 @@ _This list is work in progress_
 - [Calimoto](https://calimoto.com/en) - _When I need inspiration for new routes_
 
 ## <i class="fas fa-mobile-alt"></i> Mobile Apps (Android)
-- [Snapseed](#) - _Great mobile picture editor_
+- [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) - _Great mobile picture editor_
 
 ## <i class="fas fa-laptop-code"></i> Nerdy Stuff
 - [TrueNAS SCALE](https://www.truenas.com/truenas-scale/) - _Self-built home NAS for my backups_
