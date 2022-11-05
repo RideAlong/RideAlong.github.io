@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: ridealong.github.io
+Token: 976b5db1759cd4f07e13de8bb33f26e7753fe82eb755d85a997a1c9007c4452a
